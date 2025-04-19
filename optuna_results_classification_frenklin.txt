@@ -1,0 +1,2 @@
+Accuracy: 0.6554
+Params: {'embedding_dim': 4, 'lstm_hidden_size': 64, 'lr': 0.008610882573217826, 'lstm_layers': 2, 'dropout': 0.2329012882557128, 'batch_size': 32}
