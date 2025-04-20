@@ -1,0 +1,14 @@
+"variable","before_distribution","before_aic","before_ks","before_params","after_distribution","after_aic","after_ks","after_params","aic_change","distribution_changed"
+"appCat.other","lnorm",59291.3294110049,NA,"meanlog=2.3845, sdlog=1.0742","lnorm",58844.8037363407,NA,"meanlog=2.3902, sdlog=1.0765",446.525674664153,FALSE
+"appCat.travel","lnorm",25914.7754755689,NA,"meanlog=2.7712, sdlog=1.4362","lnorm",25567.9727591351,NA,"meanlog=2.7799, sdlog=1.4212",346.802716433725,FALSE
+"appCat.game","lnorm",9046.98045863399,NA,"meanlog=3.7254, sdlog=1.5177","lnorm",8733.4228715237,NA,"meanlog=3.7789, sdlog=1.4366",313.557587110294,FALSE
+"appCat.weather","lnorm",2026.88028396866,NA,"meanlog=2.6169, sdlog=0.933","gamma",1915.38731270003,NA,"shape=1.6016, rate=0.0844",111.492971268628,TRUE
+"appCat.unknown","lnorm",8503.30672146632,NA,"meanlog=2.6692, sdlog=1.5489","lnorm",8414.81647011553,NA,"meanlog=2.7051, sdlog=1.5331",88.4902513507823,FALSE
+"appCat.builtin","lnorm",581596.710537518,NA,"meanlog=1.5869, sdlog=1.197","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.communication","lnorm",674153.521187595,NA,"meanlog=2.7746, sdlog=1.4115","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.entertainment","lnorm",197512.557294465,NA,"meanlog=1.6203, sdlog=1.825","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.finance","lnorm",7258.11681806989,NA,"meanlog=2.2684, sdlog=1.1917","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.office","lnorm",35611.0119079269,NA,"meanlog=1.4988, sdlog=1.2684","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.social","lnorm",194169.644810223,NA,"meanlog=3.2198, sdlog=1.5405","No outliers removed",NA,NA,NA,NA,FALSE
+"appCat.utilities","lnorm",18296.0467690495,NA,"meanlog=2.0836, sdlog=1.1913","No outliers removed",NA,NA,NA,NA,FALSE
+"screen","lnorm",944037.522138441,NA,"meanlog=2.9604, sdlog=1.6621","No outliers removed",NA,NA,NA,NA,FALSE

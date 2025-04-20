@@ -1,0 +1,6 @@
+"variable","aic_before","aic_after","aic_improvement","best_distribution_before","best_distribution_after"
+"appCat.game",9046.98045863399,8733.4228715237,313.557587110294,"lnorm","lnorm"
+"appCat.other",59291.3294110049,58844.8037363407,446.525674664153,"lnorm","lnorm"
+"appCat.travel",25914.7754755689,25567.9727591351,346.802716433725,"lnorm","lnorm"
+"appCat.unknown",8503.30672146632,8414.81647011553,88.4902513507823,"lnorm","lnorm"
+"appCat.weather",2026.88028396866,1915.38731270003,111.492971268628,"lnorm","gamma"

@@ -1,0 +1,6 @@
+"variable","before_distribution","before_aic","before_params","after_distribution","after_aic","after_params","distribution_changed","aic_improvement"
+"appCat.game","lnorm",9046.98045863399,"meanlog=3.7254, sdlog=1.5177","lnorm",8733.4228715237,"meanlog=3.7789, sdlog=1.4366",FALSE,313.557587110294
+"appCat.other","lnorm",59291.3294110049,"meanlog=2.3845, sdlog=1.0742","lnorm",58844.8037363407,"meanlog=2.3902, sdlog=1.0765",FALSE,446.525674664153
+"appCat.travel","lnorm",25914.7754755689,"meanlog=2.7712, sdlog=1.4362","lnorm",25567.9727591351,"meanlog=2.7799, sdlog=1.4212",FALSE,346.802716433725
+"appCat.unknown","lnorm",8503.30672146632,"meanlog=2.6692, sdlog=1.5489","lnorm",8414.81647011553,"meanlog=2.7051, sdlog=1.5331",FALSE,88.4902513507823
+"appCat.weather","lnorm",2026.88028396866,"meanlog=2.6169, sdlog=0.933","gamma",1915.38731270003,"shape=1.6016, rate=0.0844",TRUE,111.492971268628

@@ -1,0 +1,14 @@
+"variable","before_distribution","before_aic","after_distribution","after_aic","aic_change","distribution_changed"
+"appCat.other","lnorm",59291.33,"lnorm",58844.8,446.53,FALSE
+"appCat.travel","lnorm",25914.78,"lnorm",25567.97,346.8,FALSE
+"appCat.game","lnorm",9046.98,"lnorm",8733.42,313.56,FALSE
+"appCat.weather","lnorm",2026.88,"gamma",1915.39,111.49,TRUE
+"appCat.unknown","lnorm",8503.31,"lnorm",8414.82,88.49,FALSE
+"appCat.builtin","lnorm",581596.71,"No outliers removed",NA,NA,FALSE
+"appCat.communication","lnorm",674153.52,"No outliers removed",NA,NA,FALSE
+"appCat.entertainment","lnorm",197512.56,"No outliers removed",NA,NA,FALSE
+"appCat.finance","lnorm",7258.12,"No outliers removed",NA,NA,FALSE
+"appCat.office","lnorm",35611.01,"No outliers removed",NA,NA,FALSE
+"appCat.social","lnorm",194169.64,"No outliers removed",NA,NA,FALSE
+"appCat.utilities","lnorm",18296.05,"No outliers removed",NA,NA,FALSE
+"screen","lnorm",944037.52,"No outliers removed",NA,NA,FALSE
