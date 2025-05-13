@@ -760,13 +760,12 @@ for (var in names(outlier_data_list)) {
 
 # Print summary of cleaned data
 cat("\n=== Cleaned Data Summary ===\n")
-cat("Total variables in original dataset:", length(all_vars), "\n")
+cat("Total variables in original dataset:", length(colnames(data)), "\n")
 cat("Variables processed for outliers:", length(processed_vars), "\n")
 cat("Variables with outliers detected:", length(names(outlier_data_list)), "\n")
-cat("Variables not processed for outliers:", length(non_processed_vars), "\n")
 cat("Total variables in cleaned dataset:", ncol(cleaned_data), "\n")
 
 # Save the cleaned dataset
-write.csv(cleaned_data, file.path("data", "cleaned_data.csv"), row.names = FALSE)
+write.csv(cleaned_data, file.path("cleaned_data.csv"), row.names = FALSE)
 cat("\nCleaned dataset (with outliers removed) saved to 'data/cleaned_data.csv'\n")
 
